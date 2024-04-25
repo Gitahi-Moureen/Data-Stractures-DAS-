@@ -8,6 +8,8 @@ Stack is a linear data-stracture that follows the last-in-first out principle.St
 
 ## Tuples
 
+A tuple is an ordered sequence of elements that is immutable which means, the values within the tuple cannot be modified.Elements in a tuple can be accessed through their index inside a square bracket following the tuple name.
+
 
 
 
